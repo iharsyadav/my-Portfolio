@@ -1,0 +1,15 @@
+.social-navbar {
+  background: transparent;
+  margin-top: 20px;
+}
+
+/* Yellow pill */
+.social-nav {
+  background-color: #f9c400;
+  border-radius: 40px;
+  width: clamp(240px, 32vw, 480px);
+  padding: 1px 28px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

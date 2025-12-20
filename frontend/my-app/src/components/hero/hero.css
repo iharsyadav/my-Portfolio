@@ -1,0 +1,12 @@
+.profile-image{
+ width: clamp(80px, 15vw, 140px);
+  height: auto;
+
+}
+.profile-wrapper{
+    position: relative;
+  left: 40%;
+  transform: translateX(-50%); /* keeps it visually balanced */
+  width: fit-content;
+  text-align: center;
+}
